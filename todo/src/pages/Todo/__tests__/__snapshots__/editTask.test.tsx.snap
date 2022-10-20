@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EditTask snapshot match 1`] = `
+<div
+  className="container"
+  data-testid="EditTask"
+/>
+`;
